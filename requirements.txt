@@ -1,0 +1,27 @@
+black
+build
+click
+coverage
+Cython
+docutils
+lastversion
+matplotlib
+netcdf4
+networkx
+nox
+numpy
+pandas
+plotly
+pylint
+pynsist
+setuptools
+strenum; python_version<'3.11'
+types-docutils
+typing_extensions
+scipy
+sphinx
+sphinxcontrib-bibtex
+sphinxcontrib-fulltoc
+wheel
+wrapt
+xmlschema
