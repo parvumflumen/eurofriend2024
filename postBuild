@@ -1,0 +1,2 @@
+#!/bin/bash
+pip install https://github.com/hydpy-dev/hydpy/releases/download/6.0a0/hydpy-6.0a0.tar.gz
