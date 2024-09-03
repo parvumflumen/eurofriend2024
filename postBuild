@@ -1,2 +1,1 @@
 #!/bin/bash
-pip install https://github.com/hydpy-dev/hydpy/releases/download/untagged-f89026f6a296d227dbda/hydpy-6.0.0.tar.gz
